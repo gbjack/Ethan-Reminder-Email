@@ -1,0 +1,378 @@
+<mjml lang="en" dir="ltr">
+  <mj-head>
+
+    <mj-title> Ethan Global x Cohesity | Reminder Email </mj-title>
+
+    <mj-attributes>
+        <mj-all padding="0" />
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-size="18px" color="#000000" line-height="22px" />
+        <mj-section background-color="#ffffff" />
+    </mj-attributes>
+
+    <mj-raw>
+        <meta name="format-detection" content="telephone=no,address=no,email=no,date=no,url=no" />
+        <meta name="color-scheme" content="light" />
+        <meta name="supported-color-schemes" content="light" />
+    </mj-raw>
+
+    <mj-style>
+        * { -webkit-font-smoothing: antialiased !important; -moz-osx-font-smoothing: grayscale !important; } 
+        * [x-apple-data-detectors], table, td, p, a, li, span { font-family: Helvetica, Arial, sans-serif !important; } 
+        body { margin: 0; padding: 0; }
+        [data-ogsc] .body-wrapper, [data-ogsb] .body-wrapper { background-color: #ffffff !important; }
+        .body-wrapper { background-image: linear-gradient(#ffffff, #ffffff) !important; }
+        .ReadMsgBody {width: 100%;} 
+        .ExternalClass {width: 100%;}
+        .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+        a.MsoHyperlink, span.MsoHyperlink {mso-style-priority:99; color: inherit;}
+        a.MsoHyperlinkFollowed, span.MsoHyperlinkFollowed {mso-style-priority: 99; color: inherit;}
+        p, td, div { mso-line-height-rule: exactly; }
+        u + .body-wrapper a {color: inherit; text-decoration: none; font-size: inherit; font-family: inherit; font-weight: inherit; line-height: inherit;}
+        .a6S {display: none !important; opacity: 0.01 !important;}
+        img.g-img + div {display: none !important;}
+        .im {color: inherit !important;}
+        a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important;vfont-weight: inherit !important; line-height: inherit !important; }
+        
+        @media only screen and (max-width:480px) { 
+            .p-logo > table > tbody > tr > td { 
+                padding: 50px 20px 60px 20px !important; 
+                text-align: center !important; 
+                width: 300px !important; 
+                max-width: 300px !important;
+                display: inline-block !important; 
+                } 
+            .footer-logos { 
+                width: 220px !important; 
+                max-width: 220px !important; 
+                display: inline-block !important;
+                } 
+            .px-20 > table > tbody > tr > td { 
+                padding-left: 20px !important;
+                padding-right: 20px !important; 
+                } 
+            .h1-spacer > table > tbody > tr > td {
+                padding-bottom: 15px !important; 
+                } 
+            table.footer-logos img { 
+                width: 100% !important; 
+                height: auto !important; 
+                } 
+            .copyright-mobile div { 
+                text-align: center !important; 
+                padding-top: 15px !important; 
+                } 
+            .text-base div, 
+            .text-base td { 
+                font-size: 18px !important; 
+                line-height: 34px !important;
+                } 
+            .text-base table td { 
+                padding-bottom: 25px !important; 
+                } 
+            .text-base 
+            .list-lockup td { 
+                padding-bottom: 0 !important; 
+                } 
+            .text-base td.list-header, 
+            .text-base .list-header { 
+                padding-bottom: 0 !important; 
+                }
+            .pt-0 table td { 
+                padding-top: 0 !important; 
+                } 
+            .text-base .mob-h-25 {
+                display: none !important; 
+                } 
+            } 
+            @media (min-width:481px) {
+                .copyright-desktop div { 
+                    text-align: right !important; 
+                    padding-top: 0 !important; 
+                } 
+            }
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body css-class="body-wrapper" background-color="#ffffff" width="600px">
+    <mj-section
+      padding="60px 30px 70px 30px"
+      text-align="left"
+      css-class="p-logo"
+    >
+      <mj-group width="318px">
+        <mj-column width="36%" vertical-align="middle">
+          <mj-image
+            src="img/img-ethan-logo-114x25.png"
+            alt="Ethan logo"
+            href="https://ethan.global/"
+            target="_blank"
+          />
+        </mj-column>
+
+        <mj-column width="9%" vertical-align="middle">
+          <mj-text
+            font-size="24px"
+            font-weight="light"
+            align="center"
+            line-height="24px"
+          >
+            |
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="55%" vertical-align="middle">
+          <mj-image
+            src="img/img-cogesity-logo-174x25.png"
+            alt="Cogesity logo"
+            href="https://www.cohesity.com/"
+            target="_blank"
+          />
+        </mj-column>
+      </mj-group>
+
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="0 30px 25px 30px" css-class="px-20 h1-spacer">
+        <mj-image
+          src="img/img-h1-450x156.png"
+          alt="Resilience Redefined"
+          width="450px"
+          align="left"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="0 30px" css-class="px-20">
+        <mj-image
+          src="img/img-h2-415x93.png"
+          alt="Building a Future-Ready Strategy for Data Recovery, Security and Business Continuity"
+          width="415px"
+          align="left"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="70px 0 70px 0">
+        <mj-image
+          src="img/img-hero-600x430.png"
+          alt="Hero image"
+          width="600px"
+          align="center"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="0 30px 70px 30px" css-class="px-20 text-base">
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="24px"
+          line-height="34px"
+          font-weight="normal"
+          color="#000000"
+          padding-bottom="40px"
+        >
+          Hi [firstname,fallback=],
+        </mj-text>
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="24px"
+          line-height="34px"
+          font-weight="bold"
+          color="#000000"
+          padding-bottom="40px"
+        >
+          We're looking forward to welcoming you to the Ethan Global x Cohesity
+          Executive Lunch Thursday 2 July at Aori Restaurant from 12:00&nbsp;PM
+          - 3:00&nbsp;PM.
+        </mj-text>
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="24px"
+          line-height="34px"
+          font-weight="normal"
+          color="#000000"
+          padding-bottom="40px"
+        >
+          Enjoy a lunch with great food, industry insights, and peer discussion.
+          Hosted by Amit Gupte, Field Delivery Director &amp; CTO at Cohesity,
+          and Michael Desmyth, Account Director at Ethan Group, this exclusive
+          lunch will bring together a small group of senior IT leaders to
+          discuss some of the biggest challenges organisations are facing today.
+        </mj-text>
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="24px"
+          line-height="34px"
+          font-weight="bold"
+          color="#000000"
+          css-class="list-header"
+        >
+          Together, we'll explore:
+        </mj-text>
+        <mj-table
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="24px"
+          line-height="34px"
+          color="#000000"
+          css-class="list-lockup"
+        >
+          <tr>
+            <td style="width: 30px; vertical-align: top; font-weight: bold">
+              &bull;
+            </td>
+            <td
+              style="
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 24px;
+                line-height: 34px;
+              "
+            >
+              Strengthening cyber resilience
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 30px; vertical-align: top; font-weight: bold">
+              &bull;
+            </td>
+            <td
+              style="
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 24px;
+                line-height: 34px;
+              "
+            >
+              Preparing for and responding to ransomware attacks
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 30px; vertical-align: top; font-weight: bold">
+              &bull;
+            </td>
+            <td
+              style="
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 24px;
+                line-height: 34px;
+              "
+            >
+              Building confidence in recovery and business continuity
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 30px; vertical-align: top; font-weight: bold">
+              &bull;
+            </td>
+            <td
+              style="
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 24px;
+                line-height: 34px;
+              "
+            >
+              Navigating AI-driven security challenges
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 30px; vertical-align: top; font-weight: bold">
+              &bull;
+            </td>
+            <td
+              style="
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 24px;
+                line-height: 34px;
+              "
+            >
+              Reducing operational risk and downtime
+            </td>
+          </tr>
+        </mj-table>
+        <mj-spacer height="40px" padding="0" css-class="mob-h-25" />
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="24px"
+          line-height="34px"
+          font-weight="normal"
+          color="#000000"
+          padding-bottom="40px"
+        >
+          No presentations. No sales pitch. Just a candid conversation with
+          peers over lunch. If you have any dietary requirements, simply reply
+          to this email and let us know.
+        </mj-text>
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="24px"
+          line-height="34px"
+          font-weight="bold"
+          color="#000000"
+          padding-bottom="40px"
+        >
+          Aori Restaurant <br />
+          Thursday 2nd July<br />
+          12:00pm - 3:00pm
+        </mj-text>
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="24px"
+          line-height="34px"
+          font-weight="normal"
+          color="#000000"
+        >
+          We can't wait to see you there.<br />
+          The Ethan Global &amp; Cohesity Team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      padding="40px 30px"
+      background-color="#000000"
+      text-align="center"
+    >
+      <mj-group width="40%" vertical-align="middle" css-class="footer-logos">
+        <mj-column width="33.33%" padding="0" vertical-align="middle">
+          <mj-image
+            src="img/img-footer-ethan-logo-79x17.png"
+            alt="Ethan logo"
+            href="https://ethan.global/"
+          />
+        </mj-column>
+
+        <mj-column width="13.33%" padding="0" vertical-align="middle">
+          <mj-text
+            color="#ffffff"
+            font-size="17px"
+            line-height="17px"
+            align="center"
+            >|</mj-text
+          >
+        </mj-column>
+
+        <mj-column width="53.33%" padding="0" vertical-align="middle">
+          <mj-image
+            src="img/image-footer-cohesity-121x17.png"
+            alt="Cohesity logo"
+            href="https://www.cohesity.com/"
+          />
+        </mj-column>
+      </mj-group>
+
+      <mj-column
+        width="60%"
+        padding="0"
+        vertical-align="bottom"
+        css-class="copyright-mobile copyright-desktop"
+      >
+        <mj-text font-size="10px" line-height="1" color="#ffffff" align="right">
+          © Ethan 2026 | ALL RIGHTS RESERVED.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

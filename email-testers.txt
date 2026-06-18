@@ -1,0 +1,7 @@
+valeria.l@mccorkell.com.au,
+amanda.m@mccorkell.com.au,
+claudia.d@mccorkell.com.au,
+costa.p@mccorkell.com.au,
+harry.zhu@mccorkell.com.au,
+jack@mccorkell.com.sg,
+peter.c@mccorkell.com.au
