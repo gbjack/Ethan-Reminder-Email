@@ -369,7 +369,7 @@
         vertical-align="bottom"
         css-class="copyright-mobile copyright-desktop"
       >
-        <mj-text font-size="10px" line-height="1" color="#ffffff" align="right">
+        <mj-text font-size="13px" line-height="1" color="#ffffff" align="right">
           © Ethan 2026 | ALL RIGHTS RESERVED.
         </mj-text>
       </mj-column>
