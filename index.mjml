@@ -374,5 +374,56 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
+    <mj-section full-width="full-width" background-color="#F2EEEB">
+      <mj-column padding="30px 0 30px 0" css-class="py-20">
+        <mj-raw>
+          <div
+            style="
+              font-family: Arial, Helvetica, sans-serif;
+              font-size: 12px;
+              text-align: center;
+            "
+            class="text-xs"
+          >
+            <webversion
+              style="
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 12px;
+                color: #000000;
+                text-decoration: underline;
+                cursor: pointer;
+              "
+              class="text-xs"
+              >Web Version</webversion
+            >
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <preferences
+              style="
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 12px;
+                color: #000000;
+                text-decoration: underline;
+                cursor: pointer;
+              "
+              class="text-xs"
+              >Preferences</preferences
+            >
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <unsubscribe
+              style="
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 12px;
+                color: #000000;
+                text-decoration: underline;
+                cursor: pointer;
+              "
+              class="text-xs"
+              >Unsubscribe</unsubscribe
+            >
+          </div>
+        </mj-raw>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
