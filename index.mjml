@@ -53,6 +53,10 @@
             .h1-spacer > table > tbody > tr > td {
                 padding-bottom: 15px !important; 
                 } 
+            table.footer-logos img { 
+                width: 100% !important; 
+                height: auto !important; 
+                } 
             .copyright-mobile div { 
                 text-align: center !important; 
                 padding-top: 15px !important; 
@@ -60,7 +64,7 @@
             .text-base div, 
             .text-base td { 
                 font-size: 18px !important; 
-                line-height: 34px !important;
+                line-height: 28px !important;
                 } 
             .text-base table td { 
                 padding-bottom: 25px !important; 
@@ -80,6 +84,11 @@
                 display: none !important; 
                 } 
             } 
+            
+
+
+            
+      
             @media (min-width:481px) {
                 .copyright-desktop div { 
                     text-align: right !important; 
@@ -326,6 +335,9 @@
       </mj-column>
     </mj-section>
 
+   
+
+
     <mj-section
       padding="40px 30px"
       background-color="#000000"
@@ -337,7 +349,6 @@
             src="img/img-footer-ethan-logo-79x17.png"
             alt="Ethan logo"
             href="https://ethan.global/"
-            width="79px"
           />
         </mj-column>
 
@@ -356,7 +367,6 @@
             src="img/image-footer-cohesity-121x17.png"
             alt="Cohesity logo"
             href="https://www.cohesity.com/"
-            width="121px"
           />
         </mj-column>
       </mj-group>
@@ -372,6 +382,10 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
+
+
+
 
     <mj-section full-width="full-width" background-color="#ffffff">
       <mj-column padding="30px 0 30px 0" css-class="py-20">
