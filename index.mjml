@@ -84,11 +84,6 @@
                 display: none !important; 
                 } 
             } 
-            
-
-
-            
-      
             @media (min-width:481px) {
                 .copyright-desktop div { 
                     text-align: right !important; 
@@ -335,9 +330,6 @@
       </mj-column>
     </mj-section>
 
-   
-
-
     <mj-section
       padding="40px 30px"
       background-color="#000000"
@@ -382,10 +374,6 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
-
-
-
 
     <mj-section full-width="full-width" background-color="#ffffff">
       <mj-column padding="30px 0 30px 0" css-class="py-20">
