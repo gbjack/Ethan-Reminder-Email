@@ -53,10 +53,6 @@
             .h1-spacer > table > tbody > tr > td {
                 padding-bottom: 15px !important; 
                 } 
-            table.footer-logos img { 
-                width: 100% !important; 
-                height: auto !important; 
-                } 
             .copyright-mobile div { 
                 text-align: center !important; 
                 padding-top: 15px !important; 
@@ -341,6 +337,7 @@
             src="img/img-footer-ethan-logo-79x17.png"
             alt="Ethan logo"
             href="https://ethan.global/"
+            width="79px"
           />
         </mj-column>
 
@@ -359,6 +356,7 @@
             src="img/image-footer-cohesity-121x17.png"
             alt="Cohesity logo"
             href="https://www.cohesity.com/"
+            width="121px"
           />
         </mj-column>
       </mj-group>
