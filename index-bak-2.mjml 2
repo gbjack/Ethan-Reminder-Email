@@ -95,35 +95,62 @@
   </mj-head>
 
   <mj-body css-class="body-wrapper" background-color="#ffffff" width="600px">
-    <mj-section>
-      <mj-column>
-        <mj-image
-          src="img/img-logo-600x140.jpg" 
-          alt="Ethan and Cohesity logos" 
-          width="600px" 
-          align="center"
+    <mj-section
+      padding="60px 30px 70px 30px"
+      text-align="left"
+      css-class="p-logo"
+    >
+      <mj-group width="318px">
+        <mj-column width="36%" vertical-align="middle">
+          <mj-image
+            src="img/img-ethan-logo-114x25.png"
+            alt="Ethan logo"
+            href="https://ethan.global/"
+            target="_blank"
           />
-      </mj-column>
+        </mj-column>
+
+        <mj-column width="9%" vertical-align="middle">
+          <mj-text
+            font-size="24px"
+            font-weight="light"
+            align="center"
+            line-height="24px"
+          >
+            |
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="55%" vertical-align="middle">
+          <mj-image
+            src="img/img-cogesity-logo-174x25.png"
+            alt="Cogesity logo"
+            href="https://www.cohesity.com/"
+            target="_blank"
+          />
+        </mj-column>
+      </mj-group>
+
     </mj-section>
 
     <mj-section>
-      <mj-column>
+      <mj-column padding="0 30px 25px 30px" css-class="px-20 h1-spacer">
         <mj-image
-          src="img/img-h1-600x180.jpg"
+          src="img/img-h1-450x156.png"
           alt="Resilience Redefined"
-          width="600px"
-          align="center"
+          width="450px"
+          align="left"
         />
       </mj-column>
     </mj-section>
 
     <mj-section>
-      <mj-column>
+      <mj-column padding="0 30px" css-class="px-20">
         <mj-image
-          src="img/img-h2-600x150.jpg"
+          src="img/img-h2-415x93.png"
           alt="Building a Future-Ready Strategy for Data Recovery, Security and Business Continuity"
-          width="600px"
-          align="center"
+          width="415px"
+          align="left"
         />
       </mj-column>
     </mj-section>
@@ -303,14 +330,49 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#000000">
-        <mj-column>
-          <mj-image 
-          src="img/img-footer-600x92.jpg" 
-          alt="Footer Image" 
-          width="600px"
-          />            
+    <mj-section
+      padding="40px 30px"
+      background-color="#000000"
+      text-align="center"
+    >
+      <mj-group width="40%" vertical-align="middle" css-class="footer-logos">
+        <mj-column width="33.33%" padding="0" vertical-align="middle">
+          <mj-image
+            src="img/img-footer-ethan-logo-79x17.png"
+            alt="Ethan logo"
+            href="https://ethan.global/"
+          />
         </mj-column>
+
+        <mj-column width="13.33%" padding="0" vertical-align="middle">
+          <mj-text
+            color="#ffffff"
+            font-size="17px"
+            line-height="17px"
+            align="center"
+            >|</mj-text
+          >
+        </mj-column>
+
+        <mj-column width="53.33%" padding="0" vertical-align="middle">
+          <mj-image
+            src="img/image-footer-cohesity-121x17.png"
+            alt="Cohesity logo"
+            href="https://www.cohesity.com/"
+          />
+        </mj-column>
+      </mj-group>
+
+      <mj-column
+        width="60%"
+        padding="0"
+        vertical-align="bottom"
+        css-class="copyright-mobile copyright-desktop"
+      >
+        <mj-text font-size="13px" line-height="1" color="#ffffff" align="right">
+          © Ethan 2026 | ALL RIGHTS RESERVED.
+        </mj-text>
+      </mj-column>
     </mj-section>
 
     <mj-section full-width="full-width" background-color="#ffffff">
