@@ -96,7 +96,7 @@
 
   <mj-body css-class="body-wrapper" background-color="#ffffff" width="600px">
     <mj-section>
-      <mj-column>
+      <mj-column padding="0">
         <mj-image
           src="img/img-logo-600x140.jpg" 
           alt="Ethan and Cohesity logos" 
@@ -107,7 +107,7 @@
     </mj-section>
 
     <mj-section>
-      <mj-column>
+      <mj-column padding="0">
         <mj-image
           src="img/img-h1-600x180.jpg"
           alt="Resilience Redefined"
@@ -118,7 +118,7 @@
     </mj-section>
 
     <mj-section>
-      <mj-column>
+      <mj-column padding="0">
         <mj-image
           src="img/img-h2-600x150.jpg"
           alt="Building a Future-Ready Strategy for Data Recovery, Security and Business Continuity"
@@ -129,7 +129,7 @@
     </mj-section>
 
     <mj-section>
-      <mj-column padding="70px 0 70px 0">
+      <mj-column padding-bottom="70px">
         <mj-image
           src="img/img-hero-600x430.png"
           alt="Hero image"
